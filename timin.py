@@ -1,2 +1,2 @@
-m=int(input())
-print(m//60,m%60,sep=' ')
+mz=int(input())
+print(mz//60,mz%60,sep=' ')
